@@ -60,7 +60,6 @@ New I2C devices appear on the bus as students progress (vault at 0x55, secret at
 
 - **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)** - Complete challenge guide
 - **[SOLUTIONS.md](SOLUTIONS.md)** - Complete walkthrough
-- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Command cheat sheet
 - **[SETUP_CHECKLIST.md](SETUP_CHECKLIST.md)** - Step-by-step setup verification
 
 ## Customization
