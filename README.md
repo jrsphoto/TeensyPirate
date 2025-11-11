@@ -58,11 +58,9 @@ New I2C devices appear on the bus as students progress (vault at 0x55, secret at
 
 ## Documentation
 
-- **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)** - Complete challenge guide (no spoilers)
-- **[INSTRUCTOR_MANUAL.md](INSTRUCTOR_MANUAL.md)** - Setup, customization, teaching tips
-- **[SOLUTIONS.md](SOLUTIONS.md)** - Complete walkthrough (instructors only)
+- **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)** - Complete challenge guide
+- **[SOLUTIONS.md](SOLUTIONS.md)** - Complete walkthrough
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Command cheat sheet
-- **[I2C_ADDRESS_REFERENCE.md](I2C_ADDRESS_REFERENCE.md)** - I2C addressing guide
 - **[SETUP_CHECKLIST.md](SETUP_CHECKLIST.md)** - Step-by-step setup verification
 
 ## Customization
