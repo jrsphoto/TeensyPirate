@@ -4,7 +4,11 @@ A Capture-The-Flag style hardware hacking training game for Bus Pirate 5 and Tee
 
 ## Overview
 
-TeensyPirate is an educational tool that teaches hardware reverse engineering and protocol analysis through progressive challenges. Students use a Bus Pirate 5 to discover hidden keys, complete byte sequences, solve multi-protocol puzzles, and unlock virtual vaults by analyzing I2C, UART, and GPIO communications.
+TeensyPirate is a Teensy 3.1 base, educational tool that teaches hardware reverse engineering and protocol analysis through progressive challenges. Students use a Bus Pirate 5 to discover hidden keys, complete byte sequences, solve multi-protocol puzzles, and unlock virtual vaults by analyzing I2C, UART, and GPIO communications.  I used the [Sparkfun, Teensy Arduino Shield Adapter](https://www.sparkfun.com/teensy-arduino-shield-adapter.html) for this.
+
+## 3D Prints
+- [Case for Sparkfun Teensy Arduino Shield Adapter](https://www.printables.com/model/1477817-case-for-sparkfun-teensy-arduino-shield-adapter-wi)
+- [BusPirate 5 magnetic base](https://www.printables.com/model/1477825-buspirate-5-magnetic-base)
 
 ## Features
 
